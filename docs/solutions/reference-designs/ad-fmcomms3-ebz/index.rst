@@ -89,7 +89,7 @@ the difference.
 
    #. Linux Applications
 
-      #. :dokuwiki:`IIO Scope <resources/tools-software/linux-software/iio_oscilloscope>`
+      #. :ref:`iio-oscilloscope`
 
       #. :dokuwiki:`AD936X Control IIO Scope Plugin <resources/tools-software/linux-software/fmcomms2_plugin>`
 
